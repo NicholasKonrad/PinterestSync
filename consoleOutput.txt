@@ -1,5 +1,0 @@
-{"status": "failure", "code": 1, "data": "Missing required field 'scope'", "message": "Invalid parameters."}
-{"status": "failure", "code": 1, "data": "Missing required field 'scope'", "message": "Invalid parameters."}
-
-{"type": "api", "message": "Parameter 'grant_type' is required.", "param": "grant_type"}
-{"type": "api", "message": "Parameter 'grant_type' is required.", "param": "grant_type"}
