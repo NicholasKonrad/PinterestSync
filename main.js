@@ -6,8 +6,8 @@ function log() {
     console.log(a);
     a++;
 }
-const CLIENT_ID = '5073108939462189118';
-const CLIENT_SECRET = '958e25acf35216610e7712c3fceb98bedb040e660985a36df7f4408c3b2b69d0';
+const CLIENT_ID = <CLIENT_ID here>;
+const CLIENT_SECRET = <CLIENT_SECRET here>;
 
 var AuthCodeReq = new XMLHttpRequest();
 var auth_url=`https://api.pinterest.com/oauth/?
